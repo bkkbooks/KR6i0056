@@ -1,0 +1,123 @@
+canonical_identifier: bkk:krp/KR6i0056/v1
+canonical_location: https://kanripo.org/bkk/KR6i0056/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 藥師經直解
+  identifiers:
+    alt_id:
+    - X21n0381
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0381.xml
+    old_id: X21n0381
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0056_000.yaml, hash: 'sha256:5e28227c3599d8a26de9041e7ec3c3f6f6ea1a7ac8c7ef787e5dc2f2b0741085'}
+  - {seq: 1, filename: KR6i0056_001.yaml, hash: 'sha256:e388aad3efbf8945653458c88eb42507b31485f74b1712c2845af1d0c3b2ebf6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0056_000.markers.yaml, hash: 'sha256:0c34e07c92351eb0beddddf0e874dd119106b80c84bdb4be97f1074b9b4ca9f9'}
+  - {seq: 1, role: markers, filename: assets/KR6i0056_001.markers.yaml, hash: 'sha256:b75f706668d7eb6a055b3adf5e170f0ed7e34bfc5be4115e883bbec64fd9de94'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0056_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 381-A 刻藥師經直解敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0056_X_000-mulu-2
+    span:
+    - front
+    - 397
+    - 397
+  label: No. 381-B 藥師經直解敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0056_X_000-mulu-3
+    span:
+    - front
+    - 614
+    - 614
+  label: No. 381-C 藥師經直解科
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0056_X_000-mulu-4
+    span:
+    - front
+    - 1409
+    - 1409
+  label: 藥師瑠璃光如來本願功德經直解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0056_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 19483
+  label: 藥師瑠璃光如來本願功德經直解
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0056_X_001-mulu-1
+    span:
+    - body
+    - 19424
+    - 19424
+  label: No. 381-D 附錄梵文神呪(神呪輙持誦則越諸佛三昧耶要須從師傳持)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0056_X_001-mulu-2
+    span:
+    - body
+    - 19448
+    - 19448
+  label: 藥師如來大真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0056_X_001-mulu-3
+    span:
+    - body
+    - 19459
+    - 19459
+  label: 藥師如來小真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0056_X_001-mulu-4
+    span:
+    - body
+    - 19467
+    - 19467
+  label: 七佛藥師真言
+  type: mulu
+  level: 1
+hash: sha256:910a3a6994a137059b5af60158433399ddaf3c3831580a53b317c0abc4e8d2eb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
