@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0056_000.yaml, hash: 'sha256:5e28227c3599d8a26de9041e7ec3c3f6f6ea1a7ac8c7ef787e5dc2f2b0741085'}
-  - {seq: 1, filename: KR6i0056_001.yaml, hash: 'sha256:e388aad3efbf8945653458c88eb42507b31485f74b1712c2845af1d0c3b2ebf6'}
+  - {seq: 0, filename: KR6i0056_000.yaml, hash: 'sha256:164f9af5f35fb1cad03e8abe7c958966e8b9487e8aed72ab509056be88440b7a'}
+  - {seq: 1, filename: KR6i0056_001.yaml, hash: 'sha256:dbb21bc062be242bbe638d1bdadc216f8ec4fc1b182bfd1150b6fc89c1aa1aaa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0056_000.markers.yaml, hash: 'sha256:0c34e07c92351eb0beddddf0e874dd119106b80c84bdb4be97f1074b9b4ca9f9'}
-  - {seq: 1, role: markers, filename: assets/KR6i0056_001.markers.yaml, hash: 'sha256:b75f706668d7eb6a055b3adf5e170f0ed7e34bfc5be4115e883bbec64fd9de94'}
+  - {seq: 0, role: markers, filename: assets/KR6i0056_000.markers.yaml, hash: 'sha256:6504a81d9c06edf479ad0188a5b4250877b14f4162d689118aad9013c6055e9c'}
+  - {seq: 1, role: markers, filename: assets/KR6i0056_001.markers.yaml, hash: 'sha256:c53a3189ab602fd5fae23bd1359b51ebf24ef5d5889a3dfe203239dc9d681698'}
 table_of_contents:
 - ref:
     seq: 0
@@ -117,7 +117,4 @@ table_of_contents:
   label: 七佛藥師真言
   type: mulu
   level: 1
-hash: sha256:910a3a6994a137059b5af60158433399ddaf3c3831580a53b317c0abc4e8d2eb
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c0e2aa163306546d0754b8b393689e56dbdb97352172fb6d74d294dd6152570b
