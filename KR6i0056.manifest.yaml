@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0056/v1
 canonical_location: https://kanripo.org/bkk/KR6i0056/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 藥師經直解
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0056_000.yaml, hash: 'sha256:164f9af5f35fb1cad03e8abe7c958966e8b9487e8aed72ab509056be88440b7a'}
-  - {seq: 1, filename: KR6i0056_001.yaml, hash: 'sha256:dbb21bc062be242bbe638d1bdadc216f8ec4fc1b182bfd1150b6fc89c1aa1aaa'}
+  - {seq: 0, filename: KR6i0056_000.yaml, hash: 'sha256:7ea0c5a5ae8b811f40244c833f937d835c4f78b3ea2df939ba876634bb18377e'}
+  - {seq: 1, filename: KR6i0056_001.yaml, hash: 'sha256:c9ddc3bdc7f06ad68dc01f63b240efb57d3f754ea45d38b696111adaaae6e22e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0056_000.markers.yaml, hash: 'sha256:6504a81d9c06edf479ad0188a5b4250877b14f4162d689118aad9013c6055e9c'}
-  - {seq: 1, role: markers, filename: assets/KR6i0056_001.markers.yaml, hash: 'sha256:c53a3189ab602fd5fae23bd1359b51ebf24ef5d5889a3dfe203239dc9d681698'}
+  - {seq: 0, role: markers, filename: assets/KR6i0056_000.markers.yaml, hash: 'sha256:2f735a8a9db211dd93d10929d04a08d0ed2f8f350aecdba9f3893637affa3c3e'}
+  - {seq: 1, role: markers, filename: assets/KR6i0056_001.markers.yaml, hash: 'sha256:0037abe158a6083d25e3320b2ba4816dc21ea8153cb8221355712b9522504677'}
 table_of_contents:
 - ref:
     seq: 0
@@ -117,4 +117,7 @@ table_of_contents:
   label: 七佛藥師真言
   type: mulu
   level: 1
-hash: sha256:c0e2aa163306546d0754b8b393689e56dbdb97352172fb6d74d294dd6152570b
+hash: sha256:8f62b440ab3e44c797aff8a3aec194ee15d495ec53087fb3f221f4bdf6f1c56b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
