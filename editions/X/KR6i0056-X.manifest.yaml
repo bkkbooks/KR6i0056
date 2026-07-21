@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0056_000-X.yaml, hash: 'sha256:164f9af5f35fb1cad03e8abe7c958966e8b9487e8aed72ab509056be88440b7a'}
+  - {seq: 0, filename: KR6i0056_000-X.yaml, hash: 'sha256:3d4b4a4b46bd03e6e4aaae082c4aded23ccc788b3af8e45ed6d23acbd4918d33'}
   - {seq: 1, filename: KR6i0056_001-X.yaml, hash: 'sha256:dbb21bc062be242bbe638d1bdadc216f8ec4fc1b182bfd1150b6fc89c1aa1aaa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0056_000-X.markers.yaml, hash: 'sha256:8323e2b0988a51d0695c726d9110aed9bee8b6f96ffc44f9ff0cf3baf0b988c2'}
+  - {seq: 0, role: markers, filename: assets/KR6i0056_000-X.markers.yaml, hash: 'sha256:e4307695c0126d144b44ecf06014db129f965d45c004a8902a111302620ce667'}
   - {seq: 1, role: markers, filename: assets/KR6i0056_001-X.markers.yaml, hash: 'sha256:1c2563787e1159fd053e4be5fd5d1a0ac7effde014994cb85539c8e1fffdb11c'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0056_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 381-A 刻藥師經直解敘
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0056_X_000-mulu-2
     span:
-    - front
+    - body
     - 397
     - 397
   label: No. 381-B 藥師經直解敘
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0056_X_000-mulu-3
     span:
-    - front
+    - body
     - 614
     - 614
   label: No. 381-C 藥師經直解科
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0056_X_000-mulu-4
     span:
-    - front
+    - body
     - 1409
     - 1409
   label: 藥師瑠璃光如來本願功德經直解
@@ -115,4 +115,4 @@ table_of_contents:
   label: 七佛藥師真言
   type: mulu
   level: 1
-hash: sha256:7decfa0b3bce24bb3d83fe1bb827967f7cd15fdf1a729b298ca3c4b28154b102
+hash: sha256:9083d8daaa2f3c011327a285506ceaf1def387956d84122ba0d5a5e3d533885c
